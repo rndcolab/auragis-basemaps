@@ -1,0 +1,70 @@
+AuraGIS basemap archives — repository contents
+Copyright (c) 2026 R&D Colab. All rights reserved, SUBJECT TO §1 AND §2 BELOW.
+
+PROPRIETARY — ALL RIGHTS RESERVED, EXCEPT AS STATED
+
+This repository is public so that AuraGIS Pro can download its release assets
+without a credential. Publication is not dedication to the public domain and
+grants no licence beyond what follows.
+
+Read §2 first if you are here for the archives. It is the largest thing in this
+repository and this reservation does not cover it.
+
+1. THE GITHUB FORK GRANT (already given, not revocable once exercised)
+
+   By hosting this repository publicly on GitHub, R&D Colab has granted other
+   GitHub users the licence described in the GitHub Terms of Service §D.5:
+   a nonexclusive, worldwide licence to view, use, display, perform and
+   reproduce this content BY FORKING IT ON GITHUB. Per those Terms, that
+   licence survives removal of this repository for anyone who has already
+   forked it.
+
+   This file does not purport to withdraw that grant, because it cannot.
+
+2. THE RELEASE ASSETS ARE NOT OURS TO RESERVE
+
+   The .pmtiles archives attached to this repository's releases are
+   OpenStreetMap data. Each is an unmodified bounding-box subset of Protomaps'
+   daily planet build, which is a Produced Work of OpenStreetMap data.
+
+     Map data (c) OpenStreetMap contributors, available under the Open
+     Database License 1.0 — https://opendatacommons.org/licenses/odbl/1-0/
+
+   They contain no R&D Colab intellectual property, and nothing in this file
+   claims any right in them. They are redistributed under the same terms they
+   arrived under, and any further redistribution must keep that attribution.
+   README.md states the position in full, including why the ODbL applies under
+   either classification of a vector tile.
+
+   The ODbL binds the database. It does not reach the software that reads it,
+   so AuraGIS Pro's own licensing is unaffected — the position ADR-018 records.
+
+3. NO OTHER RIGHTS ARE GRANTED IN THIS REPOSITORY'S OWN CONTENT
+
+   Outside §1 and §2, no licence is given to copy, reproduce, modify,
+   republish, mirror, redistribute or make commercial use of this
+   repository's own content: README.md, this file, and any scripts,
+   manifests or metadata committed here.
+
+4. TRADE MARKS ARE NOT COVERED BY THE GITHUB GRANT
+
+   "R&D Colab", "AuraGIS", and the associated names, logos and marks are the
+   property of R&D Colab. The GitHub grant in §1 is a copyright licence and
+   conveys no trade mark rights. Forking this repository does not permit use
+   of these marks, and they may not be used in any way that suggests
+   endorsement by or affiliation with R&D Colab.
+
+   "OpenStreetMap" is a trade mark of the OpenStreetMap Foundation and
+   "Protomaps" of its own proprietor; neither is ours to license.
+
+--------------------------------------------------------------------------
+NOTE ON SCOPE
+
+Nothing proprietary to the AuraGIS product belongs in this repository. It
+holds the notes above and the archives attached to its releases. Product
+source, specifications, pricing models and internal documents live in private
+repositories under ADR-018, and this repository carries no workflow.
+
+This is a rights reservation, not a drafted agreement. See
+decisions/adr-018-licensing-posture.md in the auragis repository.
+--------------------------------------------------------------------------
