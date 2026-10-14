@@ -17,6 +17,12 @@ bounding-box subset of a public ODbL file and carries no AuraGIS intellectual
 property, so it is redistributed under the same terms it arrived under. Any
 further redistribution must keep this attribution.
 
+`LICENSE` declares the two régimes this repository holds: the archives under the ODbL
+as above, and the repository's own text — these notes and anything later committed
+beside them — reserved on ADR-018 §3's model. **D40.** A licence that is silent about
+the largest thing in a repository is read as covering it, so the carve-out for the
+release assets is §2 of that file rather than a footnote to it.
+
 ## Verifying a download
 
 Every release records each archive's SHA-256 below and in the release notes. The
